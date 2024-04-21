@@ -10,3 +10,5 @@
 7. Run "main.py"
 
    I suggest you check the Settings.md to get results, not a stove from a computer.
+   
+   https://github.com/medvedvodkabalalaika/romanivCNN/blob/main/Settings.md
