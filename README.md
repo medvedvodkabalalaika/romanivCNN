@@ -11,4 +11,4 @@ Setup it for Windows
 
 Setup it for MacOS
   
-    https://github.com/medvedvodkabalalaika/romanivCNN/blob/main/SetupWIN.md
+    https://github.com/medvedvodkabalalaika/romanivCNN/blob/main/SetupMAC.md
